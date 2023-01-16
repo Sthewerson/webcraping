@@ -3,8 +3,8 @@
 Link dos notbooks https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
 
 # Para rodar este projeto é necessários os seguintes comandos:
-pip install -r requirements.txt 
-playwright install 
-flask --app hello run 
+1. pip install -r requirements.txt 
+2. playwright install 
+3. flask --app hello run 
 
 ## Este projeto foi feito em python então é necessário a instalacão em sua máquina 
